@@ -2,21 +2,29 @@
 Tech Exercises!
 </h1>
 
-<pre>
+<h2>
 Exercises #1
-</pre>
+</h2>
 
 <p>
-In order to run springboot issue: ./mvnw spring-boot:run
-</p>
-
-<p>
-In order to run the groovy app issue: spring run app.groovy 
+In order to run springboot issue:
 </p>
 
 <pre>
-Exercises #2
+./mvnw spring-boot:run
 </pre>
+
+<p>
+In order to run the groovy app issue:
+</p>
+
+<pre>
+spring run app.groovy
+</pre>
+
+<h2>
+Exercises #2
+</h2>
 
 <p>
 Added functionality using crud using <a href="https://www.baeldung.com/spring-boot-crud-thymeleaf">this guide.</a>
