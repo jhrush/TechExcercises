@@ -1,6 +1,6 @@
-<pre>
+<title>
 Tech Exercises!
-</pre>
+</title>
 
 <pre>
 Exercises #1
@@ -8,6 +8,9 @@ Exercises #1
 
 <p>
 In order to run springboot issue: ./mvnw spring-boot:run
+</p>
+
+<p>
 In order to run the groovy app issue: spring run app.groovy 
 </p>
 
