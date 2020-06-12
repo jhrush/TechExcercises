@@ -19,4 +19,6 @@ Exercises #2
 </pre>
 
 <p>
+Added functionality using crud using [this guide.](https://www.baeldung.com/spring-boot-crud-thymeleaf)
+Alternatively, using [this guide.](https://javapointers.com/spring/spring-boot/simple-spring-boot-web-application-using-maven/)
 </p>
