@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-boot</artifactId>
+	<artifactId>exercises</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot</name>
-	<description>Demo project for Spring Boot</description>
+	<name>exercises</name>
+	<description>Tech exercises.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -44,11 +44,6 @@
 			</exclusions>
 		</dependency>
 		<!-- end::tests[] -->
-		
-		<dependency>
-        		<groupId>org.springframework.boot</groupId>
-        		<artifactId>spring-boot-starter-web</artifactId>
-    		</dependency>
 		
 		<dependency>
         		<groupId>org.springframework.boot</groupId>
