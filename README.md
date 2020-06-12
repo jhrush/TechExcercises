@@ -1,6 +1,6 @@
-<title>
+<h1>
 Tech Exercises!
-</title>
+</h1>
 
 <pre>
 Exercises #1
