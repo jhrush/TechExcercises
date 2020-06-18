@@ -8,7 +8,9 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "This is Daniel's Branch!!!";
+		String toReturn;
+		toReturn += "This is Daniel's Branch";
+		return toReturn;
 	}
 
 }
