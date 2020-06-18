@@ -1,4 +1,2 @@
-tech2/User.class
-tech2/UserRepo.class
-tech2/UserController.class
-tech2/Application.class
+com/example/springboot/Application.class
+com/example/springboot/HelloController.class
