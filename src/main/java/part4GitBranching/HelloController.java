@@ -9,7 +9,10 @@ public class HelloController {
 	@RequestMapping("/")
 	public String index() {
 		String toReturn;
+
 		toReturn += "Hello World! This message is part of Jake's merged branch!\n"
+		toReturn += "This is Daniel's Branch";
+    
 		return toReturn;
 	}
 
