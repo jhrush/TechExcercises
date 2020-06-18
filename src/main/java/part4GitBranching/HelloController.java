@@ -11,9 +11,11 @@ public class HelloController {
 		String toReturn;
 
 		toReturn += "Hello World! This message is part of Jake's merged branch!\n"
+    toReturn += "This is Travis' Branch";
 		toReturn += "This is Daniel's Branch";
     
 		return toReturn;
 	}
 
 }
+
