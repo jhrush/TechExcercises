@@ -21,7 +21,7 @@ mvn clean package spring-boot:repackage
 </pre>
 
 <h2>
-Exercises #1
+Part 2: HelloWorld
 </h2>
 
 <p>
@@ -41,7 +41,7 @@ spring run app.groovy
 </pre>
 
 <h2>
-Exercises #2
+Part 3: Add functionality
 </h2>
 
 <p>
@@ -52,4 +52,10 @@ Added functionality using crud using <a href="https://www.baeldung.com/spring-bo
 Alternatively, using <a href="https://javapointers.com/spring/spring-boot/simple-spring-boot-web-application-using-maven/">this guide.</a>
 </p>
 
+<h2>
+Part 4: Git branching
+</h2>
+
+<p> 
+</p>
 
