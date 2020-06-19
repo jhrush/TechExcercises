@@ -56,6 +56,7 @@ Alternatively, using <a href="https://javapointers.com/spring/spring-boot/simple
 Part 4: Git branching
 </h2>
 
-<p> 
+<p>
+We just referred to the lecture video in order to modfiy part 2 through merging 3 different branches.
 </p>
 
